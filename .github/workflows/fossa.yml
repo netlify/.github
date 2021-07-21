@@ -4,7 +4,7 @@ on:
   push:
     branches:
       - chore/fossa-workflow
-      - try_SECURITY_MD
+      - main
 
 defaults:
   run:
